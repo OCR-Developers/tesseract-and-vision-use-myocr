@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_camera.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_camera.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach_file.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_file.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_gallery.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_gallery.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_help.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_choseimagefile.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_choseimagefile.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_choseimagefile.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_choseimagefile.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_homelayoutfragment.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_homelayoutfragment.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camerak.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_camerak.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallerylayoutfragment.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_gallerylayoutfragment.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_imagechose.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_imagechose.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach_file.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_imagechose.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_imagechose.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help.png.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_help.png"
+    },
+    {
+        "merged": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "G:\\ocr personal project practice\\tesseract-and-vision-use-myocr-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    }
+]
